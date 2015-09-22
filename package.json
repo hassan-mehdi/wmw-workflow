@@ -1,6 +1,6 @@
 {
-  "name": "grunt-wmw",
-  "version": "1.0.2",
+  "name": "WMW-Workflow",
+  "version": "1.0.4",
   "description": "Packaged grunt and necessary packages for WMW Workflow",
   "main": "Gruntfile.js",
   "dependencies": {
