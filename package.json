@@ -1,0 +1,26 @@
+{
+  "name": "grunt-wmw",
+  "version": "1.0.0",
+  "description": "Packaged grunt and necessary packages for WMW Workflow",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "growl": "^1.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shopify-wsync": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hassan-mehdi/wmw-workflow.git"
+  },
+  "author": "Hassan Mehdi <hassan.b.mehdi@gmail.com> (http://hassan.xyz/)",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/hassan-mehdi/wmw-workflow/issues"
+  },
+  "homepage": "https://github.com/hassan-mehdi/wmw-workflow"
+}

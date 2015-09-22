@@ -1,0 +1,1 @@
+Delete this file and clone the right theme from beanstalk
